@@ -1,0 +1,38 @@
+.card {
+ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.footer-cta {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px;
+}
+.price {
+  color: #263238;
+  font-size: 24px;
+}
+
+.card-title {
+color:#263238
+}
+
+.sale {
+  color: #E53935
+}
+
+.sale-badge {
+  background-color: #E53935
+}
+
+.z-index-2 {
+  z-index: 2;
+}
+.btn-red {
+  --mdb-btn-bg: #ca423b;
+  --mdb-btn-color: #fff;
+  --mdb-btn-box-shadow: 0 4px 9px -4px #ca423b;
+  --mdb-btn-hover-bg: #e8665f;
+  --mdb-btn-hover-color: #fff;
+  --mdb-btn-focus-bg: #e8665f;
+  --mdb-btn-focus-color: #fff;
+  --mdb-btn-active-bg: #ea352b;
+  --mdb-btn-active-color: #fff;
+  --mdb-btn-box-shadow-state: 0 8px 9px -4px rgba(59,113,202,0.3),0 4px 18px 0 rgba(59,113,202,0.2);
+  }
